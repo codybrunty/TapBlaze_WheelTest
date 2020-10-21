@@ -1,0 +1,30 @@
+Test 1 - Wheel Spun 100 Times
+Section 0 - Life 30 min - Target Weight: 20% - Mass Spin Results 11 (11.00 %)
+Section 1 - Brush 3X - Target Weight: 10% - Mass Spin Results 12 (12.00 %)
+Section 2 - Gems 35 - Target Weight: 10% - Mass Spin Results 11 (11.00 %)
+Section 3 - Hammer 3X - Target Weight: 10% - Mass Spin Results 9 (9.00 %)
+Section 4 - Coins 750 - Target Weight: 5% - Mass Spin Results 5 (5.00 %)
+Section 5 - Brush 1x - Target Weight: 20% - Mass Spin Results 18 (18.00 %)
+Section 6 - Gems 75 - Target Weight: 5% - Mass Spin Results 8 (8.00 %)
+Section 7 - Hammer 1X - Target Weight: 20% - Mass Spin Results 26 (26.00 %)
+
+Test 2 - Wheel Spun 1000 Times
+Section 0 - Life 30 min - Target Weight: 20% - Mass Spin Results 198 (19.80 %)
+Section 1 - Brush 3X - Target Weight: 10% - Mass Spin Results 99 (9.90 %)
+Section 2 - Gems 35 - Target Weight: 10% - Mass Spin Results 80 (8.00 %)
+Section 3 - Hammer 3X - Target Weight: 10% - Mass Spin Results 106 (10.60 %)
+Section 4 - Coins 750 - Target Weight: 5% - Mass Spin Results 40 (4.00 %)
+Section 5 - Brush 1x - Target Weight: 20% - Mass Spin Results 193 (19.30 %)
+Section 6 - Gems 75 - Target Weight: 5% - Mass Spin Results 41 (4.10 %)
+Section 7 - Hammer 1X - Target Weight: 20% - Mass Spin Results 243 (24.30 %)
+
+Test 3 - Wheel Spun 10000 Times
+Section 0 - Life 30 min - Target Weight: 20% - Mass Spin Results 2048 (20.48 %)
+Section 1 - Brush 3X - Target Weight: 10% - Mass Spin Results 981 (9.81 %)
+Section 2 - Gems 35 - Target Weight: 10% - Mass Spin Results 949 (9.49 %)
+Section 3 - Hammer 3X - Target Weight: 10% - Mass Spin Results 1015 (10.15 %)
+Section 4 - Coins 750 - Target Weight: 5% - Mass Spin Results 485 (4.85 %)
+Section 5 - Brush 1x - Target Weight: 20% - Mass Spin Results 2040 (20.40 %)
+Section 6 - Gems 75 - Target Weight: 5% - Mass Spin Results 505 (5.05 %)
+Section 7 - Hammer 1X - Target Weight: 20% - Mass Spin Results 1977 (19.77 %)
+
